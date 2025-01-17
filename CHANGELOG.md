@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.8.0](https://www.github.com/orthanq/orthanq/compare/v1.7.9...v1.8.0) (2025-01-17)
+
+
+### Features
+
+* use lp selected haplotypes in model and extend resulting table by 0 distance haplotypes ([#39](https://www.github.com/orthanq/orthanq/issues/39)) ([b7f0561](https://www.github.com/orthanq/orthanq/commit/b7f0561fac85f48982b527841694f2353a38aff0))
+
 ### [1.7.9](https://www.github.com/orthanq/orthanq/compare/v1.7.8...v1.7.9) (2024-10-07)
 
 
